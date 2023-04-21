@@ -1,3 +1,5 @@
+#[forbid(unsafe_code)]
+
 mod plug;
 mod settings;
 mod stdout_styling;
